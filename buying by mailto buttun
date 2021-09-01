@@ -1,0 +1,25 @@
+///image button buy, and anchor button image  תמונה עם קישור לקניה במייל, ותמונה עם קישור למיקום מסויים בדף
+
+<p style="text-align: right;">
+    <a href="mailto:כתובת המייל; עוד כתובת מייל מכותב?subject=נושא המייל &amp;body=גוף המייל">
+    <img id="buyFromUsImg"
+      style="width: 500px; max-width: 90%;"         //קביעת גודל לתמונה לרספונסיביות
+      src="כתובת תמונה"
+      alt="מלל חלופי לנגישות"
+      data-udi="קישור תמונה" />
+     </a>
+ </p>
+<p style="text-align: right;">
+     <a data-udi="קישור לדף" href="קישור לדף#שם העוגן" title="שם לקישור (מוצג במעבר עכבר)" data-anchor="#עוגן">
+     <img id="contactUsImg"
+     style="width: 500px; max-width: 90%;"
+     src="כתובת תמונה?width=500&amp;height=120.36055143160128"
+     alt="alt text"
+     data-udi="umb://media/כתובת תמונה" />
+     </a>
+     
+     <a data-udi="/media/כתובת תמונה" href="/כתובת עמוד#עוגן"
+     title="שם לקישור (מוצג במעבר עכבר)"
+     data-anchor="#עוגן">
+     </a>
+ </p>
