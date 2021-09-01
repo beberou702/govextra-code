@@ -1,0 +1,6 @@
+/// יש להכניס למקום אליו רוצים להגיע
+<div id="#AnchorName">המקום אליו רוצים להגיע</div>
+
+
+/// יש להכניס למקום ממנו רוצים לצאת
+<a href="link-to-page#AnchorName" title="כותרת עם משמעות לקישור" data-anchor="#AnchorName"> </a>
