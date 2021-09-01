@@ -1,0 +1,7 @@
+<div style="padding: 30px; text-align: center;">
+     <div class="btn-group" aria-label="Basic mixed styles example">
+           <a href="link" target="_blank" title="أسئلة وأجوبة"><button class="btn btn-outline-primary">أسئلة وأجوبة</button></a> 
+           <a href="link" target="_blank" title="Questions and Answers"><button class="btn btn-outline-warning">Questions &amp; Answers</button></a>
+           <a href="link" target="_blank" title="Вопросы и ответы"><button class="btn btn-outline-success">Вопросы и ответы</button></a>
+     </div>
+</div>
